@@ -1,4 +1,4 @@
-Oh Dios, † atended a mi socorro.
+Oh Dios, † atended a mi socorro.
 
 ℟ Acudid, Señor luego a ayudarme.
 

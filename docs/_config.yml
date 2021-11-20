@@ -33,7 +33,7 @@ plugins:
 
 Domain: passeris.github.io
 url: https://passeris.github.io
-baseurl: /opbmv/docs
+baseurl: /docs
 
 # Exclude from processing.
 # The following items will not be processed, by default.

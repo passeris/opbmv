@@ -1,7 +1,8 @@
 ---
 ---
 
-@import "minima";
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
 
 h1 {
     padding-bottom: 2px;

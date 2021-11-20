@@ -4,16 +4,16 @@ layout: home
 
 # Indice
 
-[A Laudes]({% link laudes.md %})
+[A Laudes](laudes.md)
 
-[A Prime]({% link prime.md %})
+[A Prime](prime.md)
 
-[A Terce]({% link terce.md %})
+[A Terce](terce.md)
 
-[A Sext]({% link sext.md %})
+[A Sext](sext.md)
 
-[A None]({% link none.md %})
+[A None](none.md)
 
-[A Vesper]({% link vesper.md %})
+[A Vesper](vesper.md)
 
-[A Compline]({% link compline.md %})
+[A Compline](compline.md)

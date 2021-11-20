@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Terce
+title: "A Terce"
 permalink: /terce/
 ---
 

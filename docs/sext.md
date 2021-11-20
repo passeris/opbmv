@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Sext
+title: "A Sext"
 permalink: /sext/
 ---
 

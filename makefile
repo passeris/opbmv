@@ -15,4 +15,42 @@ laudes:
 	Salmo_148.md \
 	Ant_Hermosa_sois.md \
 	Capitulo_Cant_6_8.md \
-	-o Laudes.md
+	Himno_Laudes.md \
+	Ant_Bienaventurada_Madre_de_Dios.md \
+	Cantico_de_Zacarias.md \
+	Ant_Bienaventurada_Madre_de_Dios.md \
+	Kyrie_eleison.md \
+	Oracion_Final_Laudes.md \
+	Conmemoracion_de_los_Santos.md \
+	Conclusion.md \
+	-o docs/_includes/laudes.md
+
+prime:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/prime.md
+
+terce:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/terce.md
+
+sext:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/sext.md
+
+none:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/none.md
+
+vesper:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/vesper.md
+
+compline:
+	pandoc Deus_in_adjutorium.md \
+	Conclusion.md \
+	-o docs/_includes/compline.md

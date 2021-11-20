@@ -1,11 +1,11 @@
-&#2123. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-℟. Y llegue a Vos mi clamor.
+&#x211F;. Y llegue a Vos mi clamor.
 Bendigamos al Señor.
 
-℟. A Dios gracias.
+&#x211F;. A Dios gracias.
 
-&#2123. Las almas de los fieles difuntos, por la misericordia de Dios, descansen
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen
 en paz.
 
-℟. Amén.
+&#x211F;. Amén.

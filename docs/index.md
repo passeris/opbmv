@@ -1,13 +1,19 @@
-# Officium Parvum Beatae Mariae Virginis
+---
+layout: home
+---
 
-[Ad Laudes](Laudes.md)
+# Indice
 
-[Ad Prime](Prime.md)
+[A Laudes]({% link laudes.md %})
 
-[Ad Terce](Terce.md)
+[A Prime]({% link prime.md %})
 
-[Ad Sext](Sext.md)
+[A Terce]({% link terce.md %})
 
-[Ad None](None.md)
+[A Sext]({% link sext.md %})
 
-[Ad Vispers](Visperas.md)
+[A None]({% link none.md %})
+
+[A Vesper]({% link vesper.md %})
+
+[A Compline]({% link compline.md %})

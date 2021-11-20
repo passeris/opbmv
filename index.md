@@ -1,3 +1,3 @@
 # Indice
 
-	[Laudes](Laudes.md#Laudes)
+[Laudes](Laudes.md)

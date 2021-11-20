@@ -1,9 +1,9 @@
 ---
 ---
 
-@import "";
+@import "minima";
 
- h1 {
-    padding-bottom: 2px;
-    color: blue;
-  }
+h1 {
+ padding-bottom: 2px;
+ color: blue;
+}

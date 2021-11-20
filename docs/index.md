@@ -1,4 +1,13 @@
 # Officium Parvum Beatae Mariae Virginis
 
-[Laudes](Laudes.md)
+[Ad Laudes](Laudes.md)
 
+[Ad Prime](Prime.md)
+
+[Ad Terce](Terce.md)
+
+[Ad Sext](Sext.md)
+
+[Ad None](None.md)
+
+[Ad Vispers](Visperas.md)

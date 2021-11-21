@@ -1,4 +1,4 @@
-Oh Dios, &#x2020; atended a mi socorro.
+&#x2123;. Oh Dios, <span style="color:red">&#x2720;</span> atended a mi socorro.
 
 &#x211F;. Acudid, Señor luego a ayudarme.
 

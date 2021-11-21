@@ -1,0 +1,1 @@
+*Antifona*. Fué subida María al cielo, se alegran los ángeles, con alabanzas bendicen al Señor.

@@ -7,6 +7,8 @@ principio, ahora y siempre, y por los siglos de los siglos. Amen.
 
 Aleluya o Alabanza a Vos, Señor, Rey de la gloria eterna.
 
+{% include ten_presente.md %}
+
 ℣. Oíd, Señor, mi oración.
 
 ℟. Y llegue a Vos mi clamor. Bendigamos al Señor.
@@ -18,7 +20,7 @@ descansen en paz.
 
 ℟. Amén.
 
-**Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.**
+*Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
 LEVANTO mis ojos a Vos, que habitáis en los cielos.
 

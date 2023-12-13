@@ -8,18 +8,22 @@ permalink: /terce/
 
 {%include ten_presente.md%}
 
-protégenos del enemigo y acógenos en la hora de la muerte.
-Gloria sea a Ti, oh Jesús. que naciste de la Virgen, al Padre y al Espiritu Santo, por los siglos de los siglos.
-Asi sea.
 Entre año.
+
 Antifona. La Virgen Maria.
+
 En el Advlento.
+
 Antifona. Dios te salve, Maria.
+
 En Tlempo de Navidad.
+
 Antifona. Cuando hubisteis nacido.
-SALMO 119
+
+## SALMO 119
+
 Siguiendo el ejemplo de Jesucristo, suframos con paciencia el odio de los inieuos.
-EN mi tribulación clamé al Señor •
+EN mi tribulación clamé al Señor
 y me escuchó.
 Señor, librad mi alma del labio ini-cuo, " de la lengua engañadora.
 
@@ -32,8 +36,11 @@ Mas yo, cuando hablo de paz, * ellos impelen a la guerra.
 Gloria al Padre, y al Hijo, * y al
 Espiritu Santo.
 Como era en el principio, ahora y siempre * y por los siglos de los si-glos. Amén.
-SALMO 120
+
+## SALMO 120
+
 Con la protección de María, esperemos confiados el auxilio de Dios.
+
 LEVANTO mis ojos a los montes:
 *
 ¿de dónde me vendrá el auxilio?
@@ -52,7 +59,8 @@ Gloria al Padre, y al Hijo, * y al
 Espíritu Santo.
 Como era en el principio, ahora y siempre * y por los siglos de los si-glos. Amén.
 
-SALMO 121
+## SALMO 121
+
 Alabemos alegres a Dios con Maria (Jerusalén) y pidámosle que sea para nosotros la puerta del cielo.
 MI ° tent de gozo, porque me dije-
 «Iremos a la casa del
@@ -62,8 +70,6 @@ Jerusalén que ha sido edificada
 como ciudad,
 * toda unida entre sí.
 
-A TERCIA
-161
 Allá suben las tribus, las tribus del Señor, * según la ley de Israel, para celebrar el nombre del Señor.
 Alli han sido establecidas las sedes de la justicia, * las sedes de la casa de David. ---
 Pedid las cosas de la paz para Je-rusalén! * ¡estén tranquilos los que te aman!
@@ -80,6 +86,7 @@ Entre año.
 Antifona. La Virgen Maria ha sido elevada al celeste tálamo, en donde el Rey de reyes está sentado en su trono sembrado de estrellas.
 
 Ecoli., 24, 15.
+
 Y asi fijé mi estancia en el monte
 Sión, y del mismo modo en la ciudad santa hallé mi reposo, y en Jerusalén está mi trono.
 R. A Dios gracias.
@@ -91,11 +98,10 @@ Y. Oíd, Señor, mi oración.
 R. Y llegue a Vos mi clamor.
 
 Oremos
+
 OH Dios, que por la virginidad fe-
 cunda de María, disteis al género humano el precio de la eterna salva-ción: concedednos propicio que experimentemos la intercesión de aquella por quien merecimos recibir al autor
 
-165
-A TERCIA
 de la vida, nuestro Señor, vuestro Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo, por los siglos de los siglos.
 P. Amén.
 Y. Oid, Señor, mi oración.

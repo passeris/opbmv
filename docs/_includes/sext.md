@@ -8,6 +8,18 @@ Aleluya o Alabanza a Vos, Señor, Rey de la gloria eterna.
 
 {% include ten_presente.md %}
 
+Per Annum.
+
+Antifona. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
+
+En el Adviento.
+
+Antifona. No temas María has hallado gracia delante del Señor; he aquí que concebirás y darás a luz a un hijo, aleluya.
+
+En Tiempo de Navidad.
+
+Antifona. La zarza que vió Moisés ardiendo sin consumirse, nos enSeña que ha sido conservada vuestra maravillosa Virginidad; oh Madre de Dios, interceded por nosotros.
+
 *Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
 ## Psalmo 122
@@ -44,7 +56,7 @@ Bendito sea el Señor, que no nos entregó como una presa a los dientes de ellos
 
 Nuestra alma ha escapado como una ave del lazo de los cazadores.
 
-Fué roto el lazo, * y nosotros quedamos libres.
+Fué roto el lazo, y nosotros quedamos libres.
 
 Nuestro socorro está en el nombre del Señor, que hizo el cielo y la tierra.
 
@@ -115,7 +127,7 @@ Y. Las almas de los fieles difun-tos, por la misericordia de Dios, descansen en 
 
 k. Amén.
 
-Eh el Adviento.
+En el Adviento.
 
 Antifona. No temas María has hallado gracia delante del Señor; he aquí que concebirás y darás a luz a un hijo, aleluya.
 

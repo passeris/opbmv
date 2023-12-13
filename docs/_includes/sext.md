@@ -63,7 +63,7 @@ Como era en el principio, ahora y siempre * y por los siglos de los siglos. Amé
 
 ## SALMO 124
 
-**El Señor protege a los hijos de Jerusalén (de Maria).**
+*El Señor protege a los hijos de Jerusalén (de Maria).*
 
 Los que confian en el Señor son como el monte de Sión, * el cual no tambalea, el cual permanece eter-namente.
 
@@ -85,9 +85,9 @@ Per Annum.
 
 Antifona. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
 
-## capitulo
+## Capitulo
 
-Eccli., 24, 16.
+*Eccli., 24, 16.*
 
 Yahonde mis raices en un pueblo glorioso, y en la porción de mi Dios que es su herencia, y estableci
 mi tienda en la plena reunión de los santos.

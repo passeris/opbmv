@@ -8,21 +8,21 @@ Aleluya o Alabanza a Vos, Señor, Rey de la gloria eterna.
 
 {% include ten_presente.md %}
 
-Per Annum.
+Entre año.
 
-Antifona. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
+*Antifona*. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
 
 En el Adviento.
 
-Antifona. No temas María has hallado gracia delante del Señor; he aquí que concebirás y darás a luz a un hijo, aleluya.
+*Antifona*. No temas María has hallado gracia delante del Señor; he aquí que concebirás y darás a luz a un hijo, aleluya.
 
 En Tiempo de Navidad.
 
-Antifona. La zarza que vió Moisés ardiendo sin consumirse, nos enSeña que ha sido conservada vuestra maravillosa Virginidad; oh Madre de Dios, interceded por nosotros.
-
-*Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
+*Antifona*. La zarza que vió Moisés ardiendo sin consumirse, nos enSeña que ha sido conservada vuestra maravillosa Virginidad; oh Madre de Dios, interceded por nosotros.
 
 ## Psalmo 122
+
+*Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
 LEVANTO mis ojos a Vos, que habitáis en los cielos.
 
@@ -50,7 +50,7 @@ A no ser que el Señor se puso de nuestra parte: cuando se levantaron contra nos
 
 Al encenderse su furor contra nosotros. entonces las aguas nos habrian anegado.
 
-Un torrente habría pasado sobre nosotros; entonces habrían pasado sobre nosotros aguas desbordadas. -
+Un torrente habría pasado sobre nosotros; entonces habrían pasado sobre nosotros aguas desbordadas.
 
 Bendito sea el Señor, que no nos entregó como una presa a los dientes de ellos.
 
@@ -69,9 +69,9 @@ Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
 
 *El Señor protege a los hijos de Jerusalén (de Maria).*
 
-Los que confian en el Señor son como el monte de Sión, el cual no tambalea, el cual permanece eter-namente.
+Los que confian en el Señor son como el monte de Sión, el cual no tambalea, el cual permanece eternamente.
 
-Los montes rodean a Jerusalén: así el Señor rodea a su pueblo, ahora y eternamente.-
+Los montes rodean a Jerusalén: así el Señor rodea a su pueblo, ahora y eternamente.
 
 Pues no permanecerá el cetro de los impios sobre la suerte de los justos.
 
@@ -79,28 +79,27 @@ Para que no extiendan los justos sus manos a la iniquidad.
 
 Favoreced, oh Señor, a los buenos y a los rectos de corazón.
 
-Pero a los que se desvían por sus caminos torcidos, el Señor les haga ir con los malhechores: ¡la paz sea sobre Irael!
+Pero a los que se desvían por sus caminos torcidos, el Señor les haga ir con los malhechores: ¡la paz sea sobre Israel!
 
 Gloria al Padre, y al Hijo, y al Espiritu Santo.
 
-Como era en el principio, ahora y siempre y por los siglos de los si-glos. Amén.
+Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
 
 Per Annum.
 
-Antifona. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
+*Antifona*. Tras el olor de vuestros perfumes os seguimos; las virgenes os aman tiernamente.
 
 ## Capitulo
 
 *Eccli., 24, 16.*
 
-Yahonde mis raices en un pueblo glorioso, y en la porción de mi Dios que es su herencia, y estableci
-mi tienda en la plena reunión de los santos.
+Yahonde mis raices en un pueblo glorioso, y en la porción de mi Dios que es su herencia, y estableci mi tienda en la plena reunión de los santos.
 
 B. A Dios gracias.
 
 V. Bendita tú eres entre todas las mujeres.
 
-W. Y bendito es el fruto de tu vien-tre.
+W. Y bendito es el fruto de tu vientre.
 
 Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
@@ -111,7 +110,7 @@ R. Y llegue a Vos mi clamor.
 ## Oremos
 
 CONCEDED, Oh Dios misericordioso, protección a nuestra fragilidad, a fin de que los que celebramos la memoria de la santa Madre de Dios, nos levantemos de nuestras iniquidades con el auxilio de su protección.
-Por el mismo Jesucristo, nuestro Se-ñor, Hijo vuestro que, siendo Dios, con Vos vive y reina en la unidad del Espiritu Santo, por todos los siglos de los siglos.
+Por el mismo Jesucristo, nuestro Señor, Hijo vuestro que, siendo Dios, con Vos vive y reina en la unidad del Espiritu Santo, por todos los siglos de los siglos.
 
 B. Amén.
 
@@ -123,7 +122,7 @@ Y. Bendigamos al Señor.
 
 ₽. A Dios gracias.
 
-Y. Las almas de los fieles difun-tos, por la misericordia de Dios, descansen en paz.
+Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
 k. Amén.
 
@@ -135,7 +134,7 @@ Antifona. No temas María has hallado gracia delante del Señor; he aquí que co
 
 Luc., 1, 32, 33.
 
-E'barior.Dios die dará el arcono de David su padre, y reinará en ia casa de Jacob eternamente, y su reino no tendrá fin.
+El Señor Dios le dará el trono de David su padre, y reinará en la casa de Jacob eternamente, y su reino no tendrá fin.
 
 R. A Dios gracias.
 
@@ -143,7 +142,7 @@ Y. Bendita tú eres entre todas las mujeres.
 
 H. Y bendito es el fruto de tu vientre.
 
-SeÑoR, tened piedad. Cristo tened piedad. Señor, tened piedid.
+Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
 v. Oíd, Señor, mi oración.
 
@@ -151,7 +150,7 @@ D. Y llegue a Vos mi clamor.
 
 Oremos
 
-OH Dios, que quisisteis que, por el mensaje del Ángel, vuestro Verbo se encarnase en el seno de la bien-bienaventurada Virgen María: conce-nos, os suplicamos, que cuantos creemos que ella es verdaderamente Madre de Dios, seamos ante Vos ayudados por su intercesión. Por el mismo Je-sucristo, nuestro Señor, Hijo vuestro, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo por todos los siglos de los siglos.
+OH Dios, que quisisteis que, por el mensaje del Ángel, vuestro Verbo se encarnase en el seno de la bienaventurada Virgen María: concedenos, os suplicamos, que cuantos creemos que ella es verdaderamente Madre de Dios, seamos ante Vos ayudados por su intercesión. Por el mismo Je-sucristo, nuestro Señor, Hijo vuestro, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo por todos los siglos de los siglos.
 
 k. Amén.
 

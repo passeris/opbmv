@@ -10,6 +10,8 @@ Aleluya o Alabanza a Vos, Señor, Rey de la gloria eterna.
 
 *Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
+## Psalmo 122
+
 LEVANTO mis ojos a Vos, que habitáis en los cielos.
 
 He aquí, como los ojos de los esclavos a las manos de sus señores,

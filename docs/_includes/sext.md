@@ -2,23 +2,11 @@ Oh Dios, † atended a mi socorro.
 
 ℟. Acudid, Señor luego a ayudarme.
 
-Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el
-principio, ahora y siempre, y por los siglos de los siglos. Amen.
+Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, y por los siglos de los siglos. Amen.
 
 Aleluya o Alabanza a Vos, Señor, Rey de la gloria eterna.
 
 {% include ten_presente.md %}
-
-℣. Oíd, Señor, mi oración.
-
-℟. Y llegue a Vos mi clamor. Bendigamos al Señor.
-
-℟. A Dios gracias.
-
-℣. Las almas de los fieles difuntos, por la misericordia de Dios,
-descansen en paz.
-
-℟. Amén.
 
 *Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
@@ -26,7 +14,7 @@ LEVANTO mis ojos a Vos, que habitáis en los cielos.
 
 He aquí, como los ojos de los esclavos a las manos de sus señores,
 
-Como los ojos de la esclava * a las manos de su señora:
+Como los ojos de la esclava a las manos de su señora:
 
 Así nuestros ojos miran al Señor, Dios nuestro, hasta que se compadezca de nosotros.
 
@@ -36,23 +24,23 @@ Nuestra alma está muy harta de la irrisión de los ricos, del desprecio de los 
 
 Gloria al Padre, y al Hijo, y al Espiritu Santo.
 
-Como era en el principio, ahora y siempre * y por los siglos de los si-glos. Amén.
+Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
 
 ## SALMO 123
 
-**Demos gracias a 'Dios por el beneficio de la Redención.**
+*Demos gracias a 'Dios por el beneficio de la Redención.*
 
-A no ser que el Señor se puso en nuestro favor, * dígalo ya Israel,
+A no ser que el Señor se puso en nuestro favor, dígalo ya Israel,
 
 A no ser que el Señor se puso de nuestra parte: cuando se levantaron contra nosotros los hombres, * entonces nos hubieran tragado vivos.
 
-Al encenderse su furor contra nosotros. * entonces las aguas nos habrian anegado.
+Al encenderse su furor contra nosotros. entonces las aguas nos habrian anegado.
 
-Un torrente habría pasado sobre nosotros; * entonces habrían pasado sobre nosotros aguas desbordadas. -
+Un torrente habría pasado sobre nosotros; entonces habrían pasado sobre nosotros aguas desbordadas. -
 
-Bendito sea el Señor, que no nos entregó * como una presa a los dientes de ellos.
+Bendito sea el Señor, que no nos entregó como una presa a los dientes de ellos.
 
-Nuestra alma ha escapado como una ave * del lazo de los cazadores.
+Nuestra alma ha escapado como una ave del lazo de los cazadores.
 
 Fué roto el lazo, * y nosotros quedamos libres.
 
@@ -60,14 +48,14 @@ Nuestro socorro está en el nombre del Señor, que hizo el cielo y la tierra.
 
 Gloria al Padre, y al Hijo, y al Espiritu Santo.
 
-Como era en el principio, ahora y siempre * y por los siglos de los siglos. Amén.
+Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
 
 
 ## SALMO 124
 
 *El Señor protege a los hijos de Jerusalén (de Maria).*
 
-Los que confian en el Señor son como el monte de Sión, * el cual no tambalea, el cual permanece eter-namente.
+Los que confian en el Señor son como el monte de Sión, el cual no tambalea, el cual permanece eter-namente.
 
 Los montes rodean a Jerusalén: así el Señor rodea a su pueblo, ahora y eternamente.-
 
@@ -75,13 +63,13 @@ Pues no permanecerá el cetro de los impios sobre la suerte de los justos.
 
 Para que no extiendan los justos sus manos a la iniquidad.
 
-Favoreced, oh Señor, a los buenos * y a los rectos de corazón.
+Favoreced, oh Señor, a los buenos y a los rectos de corazón.
 
-Pero a los que se desvían por sus caminos torcidos, el Señor les haga ir con los malhechores: * ¡la paz sea sobre Irael!
+Pero a los que se desvían por sus caminos torcidos, el Señor les haga ir con los malhechores: ¡la paz sea sobre Irael!
 
 Gloria al Padre, y al Hijo, y al Espiritu Santo.
 
-Como era en el principio, ahora y siempre * y por los siglos de los si-glos. Amén.
+Como era en el principio, ahora y siempre y por los siglos de los si-glos. Amén.
 
 Per Annum.
 

@@ -111,7 +111,7 @@ Es las alama caromatcnamespedr
 
 Fragancia; como mirra escogida exhalé suave olor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 y. Después del parto, oh Virgen, permanecisteis sin mancha.
 
@@ -126,11 +126,11 @@ B. Amén.
 
 Y. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Y. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
@@ -146,17 +146,17 @@ CAPÍTULO
 
 HE aquí que la Virgen concebirá y dará a luz a un Hijo que se llamará E m man u e l. Comerá leche y miel hasta que sepa rehusar lo malo y elegir 10 bueno.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 y. El Ángel del Señor anunció a Maria.
 
-R. Y concibió por obra del Espíritu Santo.
+&#x211f;. Y concibió por obra del Espíritu Santo.
 
 Señor, tened piedad. Cristo, tened piedad. Señor tened piedad.
 
 V. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Oremos
 
@@ -170,11 +170,11 @@ B. y llegue a Vos mi clamor.
 
 Y. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-R. Amén.
+&#x211f;. Amén.
 
 En Tiempo de Navidad.
 
@@ -196,22 +196,22 @@ S sion, tened piedad. Cristo; tened piedad. Señor, tened piedad.
 
 Y. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Oremos
 
 Oh Dios, que por la virginidad fecunda de Maria, disteis al género humano el precio de la eterna salvación: concedednos propicio que experimentemos la intercesión de aquella por quien merecimos recibir al autor de la vida, nuestro Señor, vuestro Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo, por todos los siglos de los siglos.
 
-R. Amén.
+&#x211f;. Amén.
 
 Y. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Y. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-R. Amén.
+&#x211f;. Amén.

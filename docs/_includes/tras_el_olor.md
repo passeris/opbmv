@@ -1,1 +1,1 @@
-Tras el olor de tus
+*Antifona*. Tras el olor de tus perfumes te seguimos; las virgenes te aman tiernamente.

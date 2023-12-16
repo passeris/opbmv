@@ -1,2 +1,1 @@
-La zarza que vio Moises
-
+*Antifona*. La zarza que vió Moisés ardiendo sin consumirse, nos enSeña que ha sido conservada vuestra maravillosa Virginidad; oh Madre de Dios, interceded por nosotros.

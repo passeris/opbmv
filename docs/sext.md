@@ -138,7 +138,7 @@ k. Amén.
 
 En el Adviento.
 
-{%include no_temas_maria.md%}
+{% include no_temas_maria.md %}
 
 ## CAPÍTULO
 
@@ -180,7 +180,7 @@ R. Amen.
 
 En Tiempo de Navidad.
 
-{%include la_zarza_que_vio_moises.md}
+{% include la_zarza_que_vio_moises.md %}
 
 ## CAPÍTULO
 

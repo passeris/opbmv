@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Terce"
+title: “IV. A Terce"
 permalink: /terce/
 ---
 
@@ -10,15 +10,15 @@ permalink: /terce/
 
 Entre año.
 
-Antifona. La Virgen Maria.
+{% include la_virgen_maria.md %}
 
 En el Adviento.
 
-Antifona. Dios te salve, Maria.
+{% include dios_te_salve_maria.md %}
 
 En Tiempo de Navidad.
 
-Antifona. Cuando hubisteis nacido.
+{% include cuando_hubisteis_nacido.md %}
 
 ## SALMO 119
 
@@ -88,23 +88,25 @@ Gloria al Padre, y al Hijo, y al Espíritu Santo.
 
 Como era en el principio, ahora y siempre por los siglos de los siglos. Amén.
 
+---
+
 Entre año.
 
-*Antifona*. La Virgen Maria ha sido elevada al celeste tálamo, en donde el Rey de reyes está sentado en su trono sembrado de estrellas.
+{% include la_virgen_maria.md %}
 
-Ecoli., 24, 15.
+*Ecoli., 24, 15.*
 
 Y así fijé mi estancia en el monte Sión, y del mismo modo en la ciudad santa hallé mi reposo, y en Jerusalén está mi trono.
 
 &#x211f;. A Dios gracias.
 
-Y. La gracia ha sido derramada en vuestros labios.
+&#x2123. La gracia ha sido derramada en vuestros labios.
 
 &#x211f;. Por esto vuestro Dios os ha bendecido para siempre.
 
 Señor, tened piedad. Cristo, tened piedad. Señor, tened piedad.
 
-Y. Oíd, Señor, mi oración.
+&#x2123. Oíd, Señor, mi oración.
 
 &#x211f;. Y llegue a Vos mi clamor.
 
@@ -112,23 +114,25 @@ Oremos
 
 OH Dios, que por la virginidad fecunda de María, disteis al género humano el precio de la eterna salvación: concedednos propicio que experimentemos la intercesión de aquella por quien merecimos recibir al autor de la vida, nuestro Señor, vuestro Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo, por los siglos de los siglos.
 
-P. Amén.
+&#x211f;. Amén.
 
-Y. Oid, Señor, mi oración.
+&#x2123 Oid, Señor, mi oración.
 
-B. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
-Y. Bendigamos al Señor.
+&#x2123. Bendigamos al Señor.
 
-P. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 &#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-k. Amén.
+&#x211f;. Amén.
 
-En el Adviento
+{% include la_virgen_maria.md %}
 
-*Antifona*. Dios te salve, María, llena eres de gracia; el Señor es contigo; bendita tú eres entre todas las mujeres, aleluya.
+En el Adviento.
+
+{% include dios_te_salve_maria.md %}
 
 CAPITULO
 
@@ -137,7 +141,7 @@ CAPITULO
 Saldrá un renuevo del tronco de Jesé
 flor. Y reposará sobre ella el Espíritu del Señor.
 
-I. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 &#x2123;. La gracia ha sido derramada en vuestros labios.
 
@@ -147,30 +151,32 @@ Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
 &#x2123;. Oíd, Señor, mi oración.
 
-H. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Oremos
 
 Oh Dios, que quisisteis que por el mensaje del Ángel se encarnase vuestro Verbo en el seno de la bienaventurada
 Virgen Maria: concedednos, os suplicamos, que cuantos creemos que ella es verdaderamente Madre de Dios, seamos ante Vos ayudados por su intercesión. Por el mismo Jesucristo, nuestro Señor, Hijo vuestro, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo por todos los siglos de los siglos.
 
-h. Amén.
+&#x211f;. Amén.
 
 &#x2123;. Oíd, Señor, mi oración.
 
-U. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 &#x2123;. Bendigamos al Señor.
 
-B. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
 Amén.
 
+---
+
 En Tiempo de Navidad.
 
-*Antifona*. Cuando hubisteis nacido inefablemente de la Virgen, entonces se cumplieron las Escrituras: Habéis bajado como la lluvia sobre la hierba para salvar al género humano; os alabamos, oh Dios nuestro.
+{% include cuando_hubisteis_nacido.md %}
 
 *Eccli., 24, 15.*
 

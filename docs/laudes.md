@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Laudes
+title: II. A Laudes
 permalink: /laudes/
 ---
 

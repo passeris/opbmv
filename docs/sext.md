@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "A Sext"
+title: “V. A Sext"
 permalink: /sext/
 ---
 
 Oh Dios, † atended a mi socorro.
 
-℟. Acudid, Señor luego a ayudarme.
+&#x211f;. Acudid, Señor luego a ayudarme.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, y por los siglos de los siglos. Amen.
 
@@ -26,7 +26,7 @@ En Tiempo de Navidad.
 
 {% include la_zarza_que_vio_moises.md %}
 
-## Psalmo 122
+## PSALMO 122
 
 *Confiando en la oración de la bienaventurada Virgen, roguemos a Dios fervorosamente que nos libre de las tentaciones.*
 
@@ -75,7 +75,7 @@ Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
 
 *El Señor protege a los hijos de Jerusalén (de Maria).*
 
-Los que confian en el Señor son como el monte de Sión, el cual no tambalea, el cual permanece eternamente.
+Los que confían en el Señor son como el monte de Sión, el cual no tambalea, el cual permanece eternamente.
 
 Los montes rodean a Jerusalén: así el Señor rodea a su pueblo, ahora y eternamente.
 
@@ -105,15 +105,15 @@ Yahonde mis raíces en un pueblo glorioso, y en la porción de mi Dios que es su
 
 B. A Dios gracias.
 
-V. Bendita tú eres entre todas las mujeres.
+&#x2123;. Bendita tú eres entre todas las mujeres.
 
-R. Y bendito es el fruto de tu vientre.
+&#x211f;. Y bendito es el fruto de tu vientre.
 
 Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 ## Oremos
 
@@ -124,7 +124,7 @@ B. Amén.
 
 Y. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Y. Bendigamos al Señor.
 
@@ -146,7 +146,7 @@ Luc., 1, 32, 33.
 
 El Señor Dios le dará el trono de David su padre, y reinará en la casa de Jacob eternamente, y su reino no tendrá fin.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 Y. Bendita tú eres entre todas las mujeres.
 
@@ -162,19 +162,19 @@ Oremos
 
 OH Dios, que quisisteis que, por el mensaje del Ángel, vuestro Verbo se encarnase en el seno de la bienaventurada Virgen María: concedenos, os suplicamos, que cuantos creemos que ella es verdaderamente Madre de Dios, seamos ante Vos ayudados por su intercesión. Por el mismo Jesucristo, nuestro Señor, Hijo vuestro, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo por todos los siglos de los siglos.
 
-k. Amén.
+&#x211f;. Amén.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-D. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
-V. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
-Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-R. Amen.
+&#x211f;. Amen.
 
 ---
 
@@ -188,35 +188,35 @@ En Tiempo de Navidad.
 
 Yahondé mis raíces en un pueblo glorioso, y en la porción del Señor que es su herencia, y establecí mi tienda en la plena reunión de los santos.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
-V. Bendita tú entre las mujeres.
+&#x2123;. Bendita tú entre las mujeres.
 
-R. Y bendito el fruto de tu vien-tre.
+&#x211f;. Y bendito el fruto de tu vien-tre.
 
 Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Oremos
 
 OH Dios, que por la virginidad fecunda de María, disteis al género humano el precio de la eterna salvación: concedednos propicio que experimentemos la intercesión de aquella por quien merecimos recibir al autor de la vida, nuestro Señor, vuestro Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo, por los siglos de los siglos.
 
-k. Amén.
+&#x211f;. Amén.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-k. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
-Y. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
-V. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-k. Amén.
+&#x211f;. Amén.
 
 
 

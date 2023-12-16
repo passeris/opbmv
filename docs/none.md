@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "A None"
+title: “VI. A None"
 permalink: /none/
 ---
 
-OH Dios, + atended a mi socorro.
+&#x2123;. OH Dios, + atended a mi socorro.
 
-℟.  Acudid, Señor, luego ayudarme.
+&#x211f;.  Acudid, Señor, luego ayudarme.
 
 Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre, y por los siglos de los siglos. Amén.
 
@@ -115,9 +115,9 @@ Fragancia; como mirra escogida exhalé suave olor.
 
 &#x211f;. A Dios gracias.
 
-y. Después del parto, oh Virgen, permanecisteis sin mancha.
+&#x2123;. Después del parto, oh Virgen, permanecisteis sin mancha.
 
-B. Madre de Dios, interceded por nosotros.
+&#x211f;. Madre de Dios, interceded por nosotros.
 
 {%include Kyrie_eleison.md%}
 
@@ -126,17 +126,17 @@ Oremos
 Os suplicamos, oh Señor, que perdonéis las faltas de vuestros siervos; a fin de que nosotros, que no os podemos agradar por nuestros actos, seamos salvados por la intercesión de la Madre de vuestro Hijo, nuestro Señor. El cual, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo por todos los siglos de los siglos.
 B. Amén.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 &#x211f;. Y llegue a Vos mi clamor.
 
-Y. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
 &#x211f;. A Dios gracias.
 
-Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
-K. Amen.
+&#x211f;. Amen.
 
 ---
 
@@ -152,13 +152,13 @@ HE aquí que la Virgen concebirá y dará a luz a un Hijo que se llamará E m ma
 
 &#x211f;. A Dios gracias.
 
-y. El Ángel del Señor anunció a Maria.
+&#x2123;. El Ángel del Señor anunció a Maria.
 
 &#x211f;. Y concibió por obra del Espíritu Santo.
 
 Señor, tened piedad. Cristo, tened piedad. Señor tened piedad.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 &#x211f;. Y llegue a Vos mi clamor.
 
@@ -168,11 +168,11 @@ OH Dios, que quisisteis que, por el mensaje del Angel, vuestro Verbo se encarnas
 
 Amén.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-B. y llegue a Vos mi clamor.
+&#x211f;. y llegue a Vos mi clamor.
 
-Y. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
 &#x211f;. A Dios gracias.
 
@@ -192,15 +192,15 @@ CAPÍTULO
 
 fragancia; como mirra escogida exhalé suave olor.
 
-R. A Dios gracias.
+&#x211f; A Dios gracias.
 
-Y. Después del parto, oh Virgen, permanecisteis sin mancha.
+&#x2123;. Después del parto, oh Virgen, permanecisteis sin mancha.
 
-R. Madre de Dios, interceded por nosotros.
+&#x211f; Madre de Dios, interceded por nosotros.
 
 Señor, tened piedad. Cristo; tened piedad. Señor, tened piedad.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 &#x211f;. Y llegue a Vos mi clamor.
 
@@ -210,14 +210,14 @@ Oh Dios, que por la virginidad fecunda de Maria, disteis al género humano el pr
 
 &#x211f;. Amén.
 
-Y. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 &#x211f;. Y llegue a Vos mi clamor.
 
-Y. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
 &#x211f;. A Dios gracias.
 
-Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
 &#x211f;. Amén.

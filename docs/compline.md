@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Compline
+title: VIII. Compline
 permalink: /compline/
 ---
 

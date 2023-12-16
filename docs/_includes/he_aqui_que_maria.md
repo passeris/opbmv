@@ -1,0 +1,1 @@
+*Antifona*. He aquí que María nos engendró el Salvador, que Juan al verle exclamó diciendo: He aquí el Cordero de Dios, he aquí el que borra los pecados del mundo, aleluya.

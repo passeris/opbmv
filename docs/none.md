@@ -18,17 +18,17 @@ Entre año.
 
 Antifona.
 
-Hermosa sois.
+{% include hermosa_eres.md %}
 
 En el Adviento.
 
-Antifona. He aquí la esclava del
+{% include he_aquí_la_esclava_del.md %}
 
 Señor.
 
 En Tiempo de Navidad.
 
-Antifona. He aquí que Maria.
+{% include he_aquí_que_maria.md %}
 
 ## SALMO 125
 
@@ -97,11 +97,12 @@ Para que veas a los hijos de tus hijos: ¡paz sobre Israel!
 Gloria al Padre, y al Hijo, y al Espíritu Santo.
 
 Como era en el principio, ahora y siempre y por los siglos de los siglos. Amén.
+
+---
+
 Entre año.
 
-Antifona.
-
-Hermosa sois y graciosa, hija de Jerusalén, terrible como un ejército en orden de batalla.
+{% include hermosa_eres.md %}
 
 CAPÍTULO
 
@@ -136,9 +137,11 @@ Y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en p
 
 K. Amen.
 
+---
+
 En el Adviento.
 
-*Antifona*. He aquí la esclava del Señor; hágase en mí según tu palabra.
+{% include he_aqui_la_esclava.md %}
 
 CAPÍTULO
 
@@ -176,9 +179,11 @@ y. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en p
 
 &#x211f;. Amén.
 
+---
+
 En Tiempo de Navidad.
 
-*Antifona*. He aquí que María nos engendró el Salvador, que Juan al verle exclamó diciendo: He aquí el Cordero de Dios, he aquí el que borra los pecados del mundo, aleluya.
+{% include he_aqui_que_maria.md %}
 
 CAPÍTULO
 
@@ -186,13 +191,13 @@ CAPÍTULO
 
 fragancia; como mirra escogida exhalé suave olor.
 
-B. A Dios gracias.
+R. A Dios gracias.
 
 Y. Después del parto, oh Virgen, permanecisteis sin mancha.
 
-B. Madre de Dios, interceded por nosotros.
+R. Madre de Dios, interceded por nosotros.
 
-S sion, tened piedad. Cristo; tened piedad. Señor, tened piedad.
+Señor, tened piedad. Cristo; tened piedad. Señor, tened piedad.
 
 Y. Oíd, Señor, mi oración.
 

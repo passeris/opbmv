@@ -1,0 +1,1 @@
+*Antifona*. Bienaventurada Madre de Dios, siempre Virgen María, templo del Señor, sagrario del Espíritu Santo; vos más que nadie fuisteis acepta al Señor; rogad por el pueblo, intervenid en favor del clero, interceded por las mujeres que han hecho voto al Señor.

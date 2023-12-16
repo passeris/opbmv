@@ -96,17 +96,17 @@ Ecoli., 24, 15.
 
 Y así fijé mi estancia en el monte Sión, y del mismo modo en la ciudad santa hallé mi reposo, y en Jerusalén está mi trono.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
 Y. La gracia ha sido derramada en vuestros labios.
 
-R. Por esto vuestro Dios os ha bendecido para siempre.
+&#x211f;. Por esto vuestro Dios os ha bendecido para siempre.
 
 Señor, tened piedad. Cristo, tened piedad. Señor, tened piedad.
 
 Y. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
 Oremos
 
@@ -122,7 +122,7 @@ Y. Bendigamos al Señor.
 
 P. A Dios gracias.
 
-V. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
 k. Amén.
 
@@ -139,13 +139,13 @@ flor. Y reposará sobre ella el Espíritu del Señor.
 
 I. A Dios gracias.
 
-V. La gracia ha sido derramada en vuestros labios.
+&#x2123;. La gracia ha sido derramada en vuestros labios.
 
-R. Por esto vuestro Dios os ha bendecido para siempre.
+&#x211f;. Por esto vuestro Dios os ha bendecido para siempre.
 
 Señor, tened piedad. Cristo tened piedad. Señor, tened piedad.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 H. Y llegue a Vos mi clamor.
 
@@ -156,11 +156,11 @@ Virgen Maria: concedednos, os suplicamos, que cuantos creemos que ella es verdad
 
 h. Amén.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
 U. Y llegue a Vos mi clamor.
 
-V. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
 B. A Dios gracias.
 
@@ -176,24 +176,24 @@ En Tiempo de Navidad.
 
 Y así fue mi estancia en el monte de Sión, y del mismo modo en la ciudad santa hallé mi reposo, y en Jerusalén está mi trono.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
-V. La gracia ha sido derramada en vuestros labios.
+&#x2123;. La gracia ha sido derramada en vuestros labios.
 
-R. Por esto vuestro Dios os ha bendecido para siempre.
+&#x211f;. Por esto vuestro Dios os ha bendecido para siempre.
 
-Oh Dios, que por la virginidad fecunda de Maria, disteis al género humano el precio de la eterna salvación: concedednos propicio que exrimentemos la intercesión de aquella por quien merecimos recibir al autor de la vida, nuestro Señor, vuestra Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo. por los siglos de los siglos.
+Oh Dios, que por la virginidad fecunda de Maria, disteis al género humano el precio de la eterna salvación: concedednos propicio que experimentemos la intercesión de aquella por quien merecimos recibir al autor de la vida, nuestro Señor, vuestra Hijo, que, siendo Dios, con Vos vive y reina en la unidad del Espíritu Santo. por los siglos de los siglos.
 
-R. Amén.
+&#x211f;. Amén.
 
-V. Oíd, Señor, mi oración.
+&#x2123;. Oíd, Señor, mi oración.
 
-R. Y llegue a Vos mi clamor.
+&#x211f;. Y llegue a Vos mi clamor.
 
-V. Bendigamos al Señor.
+&#x2123;. Bendigamos al Señor.
 
-R. A Dios gracias.
+&#x211f;. A Dios gracias.
 
-V. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
+&#x2123;. Las almas de los fieles difuntos, por la misericordia de Dios, descansen en paz.
 
 Amén.

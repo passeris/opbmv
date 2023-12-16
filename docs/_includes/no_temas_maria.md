@@ -1,2 +1,1 @@
-No temas Maria
-
+*Antifona*. No temas María has hallado gracia delante del Señor; he aquí que concebirás y darás a luz a un hijo, aleluya.

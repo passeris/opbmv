@@ -1,0 +1,1 @@
+*Antifona*. Cuando hubisteis nacido inefablemente de la Virgen, entonces se cumplieron las Escrituras: Habéis bajado como la lluvia sobre la hierba para salvar al género humano; Os alabamos, oh Dios nuestro.

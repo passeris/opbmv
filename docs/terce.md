@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “IV. A Terce"
+title: IV. Terce
 permalink: /terce/
 ---
 

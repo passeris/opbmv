@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “VII. A Vesper"
+title: VII. A Vesper
 permalink: /vesper/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “VI. A None"
+title: VI. None
 permalink: /none/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “III. A Prime"
+title: III. Prime
 permalink: /prime/
 ---
 

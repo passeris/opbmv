@@ -2,18 +2,20 @@
 ---
 
 @import "minima";
-
+html {
+  font-size: 16px;
+}
 
 .site-title { font-family: Georgia, Times, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: bold; font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; float: left; }
 
 body { font: 400 14px; }
 
-h1 { font-family: Georgia, Times, "Times New Roman", serif; font-size: 8vw; font-style: normal; font-variant: normal; font-weight: bold; line-height: 26.399999618530273px; color: red;} 
+h1 { font-family: Georgia, Times, "Times New Roman", serif; font-size: clamp(1.5rem, 5vw, 3rem); font-style: normal; font-variant: normal; font-weight: bold; line-height:1.2; color: red;} 
 
 
-h2, h3, h4 {font-family: Georgia, Times, "Times New Roman", serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: bold; font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; color: red; }
+h2, h3, h4 {font-family: Georgia, Times, "Times New Roman", serif; font-size: 8vw; font-style: normal; font-variant: normal; font-weight: bold; font-size: 26px; font-weight: 300; line-height: 54px; letter-spacing: -1px; margin-bottom: 0; color: red; }
 
-p {     text-indent: 2%; font-family: Georgia, Times, "Times New Roman", serif; font-size: 2vw; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18px; } 
+p {     text-indent: 2%; font-family: Georgia, Times, "Times New Roman", serif; font-size: calc(1rem + 0.5vw); font-style: normal; font-variant: normal; font-weight: 400; line-height: 1.6; } 
 
 
 blockquote { font-family: Georgia, Times, "Times New Roman", serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } 
